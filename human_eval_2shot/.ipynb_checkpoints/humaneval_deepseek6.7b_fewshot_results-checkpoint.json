@@ -1,0 +1,8 @@
+{
+  "model_id": "deepseek-ai/deepseek-coder-6.7b-instruct",
+  "fewshot_examples": 2,
+  "n_eval": 162,
+  "pass": 119,
+  "fail": 43,
+  "pass@1": 0.7345679012345679
+}
